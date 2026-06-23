@@ -9,7 +9,9 @@ While I was bored on my computer, I felt the urge to play a song—but this wasn
 
 # What Sets Us Apart?
 It’s clear that what sets us apart is that we don’t require an internet connection, but you might be wondering:
+
 “Why would I use this when there’s a default audio player?”
+
 You might have a point, but there are some shortcomings. 😅
 
 My promise to you is that you’ll be able to play the OSTs (Official Soundtracks) you want without overloading your computer. Plus, we offer virtually everything that popular music players charge you for—all open-source and free!
@@ -22,7 +24,9 @@ bilgisayarda canım sıkılırken şarkı açma isteği uyandı ancak bu normal 
 
 # Farkımız Ne?
 Çok belli ki farkımız internete ihtiyaç duyulmadığı fakat akıllara şu soru gelebilir:
+
 "Varsayılan ses oynatıcı varken neden bunu kullanayım ki?"
+
 Biraz haklı da sayılsanız eksikler var.😅
 
 Benim size vaadim size istediğiniz OST'leri (Offical Soundtrack) bilgisayarınıza yük bindirmeden çalıştırmak. Ayrıca biz popüler müzik oynatıcılarının size parayla sunduğu hemen hemen herşeyi hem açık kaynak hemde parasız sunuyoruz!
