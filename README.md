@@ -17,6 +17,15 @@ You might have a point, but there are some shortcomings. 😅
 
 My promise to you is that you’ll be able to play the OSTs (Official Soundtracks) you want without overloading your computer. Plus, we offer virtually everything that popular music players charge you for—all open-source and free!
 
+# Features
+Playlist Feature: You can create as many playlists as you want and add as many songs as you want!
+Smart Shuffle: Our shuffle algorithm ensures that when you listen to a song in a playlist, the same song won’t play over and over again. Once all the songs in the playlist have been played, the algorithm resets.
+Automatic Startup: Depending on the user’s preference (which is also my recommendation), the app can start automatically in the background without putting any strain on your computer—you might not even notice the difference.
+Theme customization: We offer the ability to fully customize the app’s theme.
+
+
+Translated with DeepL.com (free version)
+
 # TR - TÜRKÇE
 # Tanıtım
 
@@ -32,3 +41,9 @@ bilgisayarda canım sıkılırken şarkı açma isteği uyandı ancak bu normal 
 Biraz haklı da sayılsanız eksikler var.😅
 
 Benim size vaadim size istediğiniz OST'leri (Offical Soundtrack) bilgisayarınıza yük bindirmeden çalıştırmak. Ayrıca biz popüler müzik oynatıcılarının size parayla sunduğu hemen hemen herşeyi hem açık kaynak hemde parasız sunuyoruz!
+
+# Özellikler
+Playlist Özelliği: İstediğiniz kadar playlist oluşturabilir ve istediğiniz kadar şarkı ekleyebilirsiniz!
+Akıllı karışık çalma: Bizim karışık çalma algoritmamız bir playlistteki şarkıyı dinlediğinizde aynı şarkı tekrar tekrar çalmaz. Playlistteki şarkıların hepsi dinlendiği zaman algoritma sıfırlanır.
+Kendiliğinden başlatma: Kullanıcı isteğine bağlı( ki benim de önerimdir.) uygulama kendini arka planda başlatabilir ve bilgisayarı hiç yormaz, belki farkı hissetmeyebilirsiniz bile.
+Tema özelleştirme: Uygulama temasını baştan sona düzeltebilme imkanı sunuyoruz.
