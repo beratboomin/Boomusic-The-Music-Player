@@ -23,9 +23,6 @@ Smart Shuffle: Our shuffle algorithm ensures that when you listen to a song in a
 Automatic Startup: Depending on the user’s preference (which is also my recommendation), the app can start automatically in the background without putting any strain on your computer—you might not even notice the difference.
 Theme customization: We offer the ability to fully customize the app’s theme.
 
-
-Translated with DeepL.com (free version)
-
 # TR - TÜRKÇE
 # Tanıtım
 
