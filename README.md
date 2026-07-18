@@ -1,10 +1,10 @@
 # Boomusic The Music Player
-A music player programmed entirely in Vibe Coding. Drag and drop your downloaded audio file into Boomusic and **start listening without using any data!**
+A music player programmed entirely in Vibe Coding. Drag and drop your downloaded audio file into Boomusic and **save your money, save your life!**
 
 # EN - ENGLİSH
 # Introduction
 
-First of all, hello—my name is Berat, and this is my project, “Boomusic.” I’m 15 years old and live in Turkey. It hasn’t even been a year since I entered this industry, but I’m determined to keep growing. The story behind this project began like this:
+First of all, hello—my name is Berat, and this is my project, “Boomusic.” I’m 15 years old and live in Turkiye. It hasn’t even been a year since I entered this industry, but I’m determined to keep growing. The story behind this project began like this:
 
 While I was bored on my computer, I felt the urge to play a song—but this wasn’t your typical song. I wanted to bring the background music we often hear in games into real life while doing other tasks. At first, I started with a simple program that didn’t take up much space on my computer and just played or paused songs, but now i think it's time to turn this into a real music player. "Boomusic," which I programmed and designed entirely using AI tools, **is currently in development!**
 
